@@ -55,17 +55,6 @@
         "value": 8
       }
     },
-    "tetra:ability_damage": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 2048,
-        "value": 2048
-      }
-    },
     "irons_spellbooks:nature_magic_resist": {
       "enabled": false,
       "min": {
@@ -75,6 +64,17 @@
       "max": {
         "default": 10,
         "value": 10
+      }
+    },
+    "tetra:ability_damage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
       }
     },
     "irons_spellbooks:lightning_magic_resist": {
@@ -97,6 +97,17 @@
       "max": {
         "default": 10,
         "value": 10
+      }
+    },
+    "ars_nouveau:ars_nouveau.perk.flat_max_mana": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10000,
+        "value": 10000
       }
     },
     "minecraft:generic.luck": {
@@ -141,6 +152,17 @@
       "max": {
         "default": 10,
         "value": 10
+      }
+    },
+    "ars_nouveau:ars_nouveau.perk.saturation": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10000,
+        "value": 10000
       }
     },
     "forge:reach_distance": {
@@ -243,6 +265,17 @@
       }
     },
     "forge:swim_speed": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "ars_nouveau:ars_nouveau.perk.wixie": {
       "enabled": false,
       "min": {
         "default": 0,
@@ -396,6 +429,17 @@
         "value": 30
       }
     },
+    "ars_nouveau:ars_nouveau.perk.percent_max_mana": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10000,
+        "value": 10000
+      }
+    },
     "minecraft:generic.attack_speed": {
       "enabled": true,
       "min": {
@@ -418,6 +462,17 @@
         "value": 1
       }
     },
+    "ars_nouveau:ars_nouveau.perk.mana_regen": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2000,
+        "value": 2000
+      }
+    },
     "minecraft:generic.attack_damage": {
       "enabled": true,
       "min": {
@@ -438,6 +493,17 @@
       "max": {
         "default": 10,
         "value": 10
+      }
+    },
+    "ars_nouveau:ars_nouveau.perk.feather": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
       }
     },
     "minecraft:generic.armor": {
@@ -495,15 +561,15 @@
         "value": 1024
       }
     },
-    "windswept:snow_speed": {
+    "ars_nouveau:ars_nouveau.perk.toughness": {
       "enabled": false,
       "min": {
         "default": 0,
         "value": 0
       },
       "max": {
-        "default": 1,
-        "value": 1
+        "default": 1024,
+        "value": 1024
       }
     },
     "irons_spellbooks:lightning_spell_power": {
@@ -515,6 +581,17 @@
       "max": {
         "default": 10,
         "value": 10
+      }
+    },
+    "windswept:snow_speed": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
       }
     },
     "minecraft:generic.movement_speed": {
@@ -616,6 +693,17 @@
         "value": 2
       }
     },
+    "ars_nouveau:ars_nouveau.perk.spell_damage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10000,
+        "value": 10000
+      }
+    },
     "savage_and_ravage:explosive_damage_reduction": {
       "enabled": false,
       "min": {
@@ -636,6 +724,17 @@
       "max": {
         "default": 10000,
         "value": 10000
+      }
+    },
+    "ars_nouveau:ars_nouveau.perk.warding": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
       }
     },
     "minecraft:generic.knockback_resistance": {

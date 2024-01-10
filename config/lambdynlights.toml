@@ -171,6 +171,9 @@
 
 			[light_sources.settings.entities.friendsandfoes]
 				rascal = true
+				mauler = true
+				glare = true
+				copper_golem = true
 
 			[light_sources.settings.entities.whisperwoods]
 				moth = true
@@ -184,6 +187,10 @@
 				undead_miner = true
 				dead_beard = true
 				frostbitten = true
+				immortal = true
+				hunter_wolf = true
+				zap = true
+				burned = true
 
 			[light_sources.settings.entities.alexsmobs]
 				raccoon = true
@@ -213,6 +220,34 @@
 				snow_leopard = true
 				cachalot_echo = true
 				cachalot_whale = true
+				underminer = true
+				rocky_roller = true
+				emu = true
+				platypus = true
+				roadrunner = true
+				kangaroo = true
+				moose = true
+				flutter = true
+				elephant = true
+				gazelle = true
+				guster = true
+				sand_shot = true
+				mantis_shrimp = true
+				jerboa = true
+				rain_frog = true
+				rattlesnake = true
+				giant_squid = true
+				frilled_shark = true
+				blobfish = true
+				cosmic_cod = true
+				enderiophage = true
+				endergrade = true
+				spectre = true
+				cosmaw = true
+				hummingbird = true
+				komodo_dragon = true
+				gorilla = true
+				hammerhead_shark = true
 
 			[light_sources.settings.entities.stalwart_dungeons]
 				projectile_spore_bottle = true
@@ -546,9 +581,17 @@
 			[light_sources.settings.entities.irons_spellbooks]
 				archevoker = true
 				necromancer = true
+				cryomancer = true
 
 			[light_sources.settings.entities.monsters_and_girls]
 				gourdragora_medium = true
+				red_jar = true
+				green_wisp = true
+				brown_mushroom_gal = true
+				gourdragora_mini = true
+				green_mandrake = true
+				gourdragora_large = true
+				ink_cap = true
 
 			[light_sources.settings.entities.cataclysm]
 				lionfish = true
@@ -560,7 +603,56 @@
 				nautilus = true
 				thrasher = true
 				pike = true
+				lionfish = true
 
 			[light_sources.settings.entities.windswept]
 				chilled = true
+
+			[light_sources.settings.entities.botania]
+				spark = true
+				mana_burst = true
+
+			[light_sources.settings.entities.lootr]
+				lootr_minecart = true
+
+			[light_sources.settings.entities.supplementaries]
+				red_merchant = true
+
+			[light_sources.settings.entities.biomemakeover]
+				tumbleweed = true
+				moth = true
+				rootling = true
+				scuttler = true
+
+			[light_sources.settings.entities.immersive_aircraft]
+				biplane = true
+
+			[light_sources.settings.entities.mca]
+				female_zombie_villager = true
+				male_zombie_villager = true
+				female_villager = true
+				male_villager = true
+
+			[light_sources.settings.entities.galosphere]
+				sparkle = true
+
+			[light_sources.settings.entities.golems]
+				golem = true
+
+			[light_sources.settings.entities.neapolitan]
+				plantain_spider = true
+				chimpanzee = true
+
+			[light_sources.settings.entities.resourcefulbees]
+				lapis_bee = true
+				gold_bee = true
+				skeleton_bee = true
+				diamond_bee = true
+				rgbee_bee = true
+				zombee_bee = true
+				redstone_bee = true
+				dungeon_bee = true
+				coal_bee = true
+				beeper_bee = true
+				iron_bee = true
 

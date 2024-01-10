@@ -939,6 +939,141 @@
 		[types.cut_block_type.monsters_and_girls]
 			ender_puffball = true
 
+		[types.cut_block_type.create]
+			copper_shingle = true
+			exposed_copper_shingle = true
+			weathered_copper_shingle = true
+			oxidized_copper_shingle = true
+			waxed_copper_shingle = true
+			waxed_exposed_copper_shingle = true
+			waxed_weathered_copper_shingle = true
+			waxed_oxidized_copper_shingle = true
+			copper_tile = true
+			exposed_copper_tile = true
+			weathered_copper_tile = true
+			oxidized_copper_tile = true
+			waxed_copper_tile = true
+			waxed_exposed_copper_tile = true
+			waxed_weathered_copper_tile = true
+			waxed_oxidized_copper_tile = true
+			cut_granite = true
+			polished_cut_granite = true
+			cut_granite_brick = true
+			small_granite_brick = true
+			cut_diorite = true
+			polished_cut_diorite = true
+			cut_diorite_brick = true
+			small_diorite_brick = true
+			cut_andesite = true
+			polished_cut_andesite = true
+			cut_andesite_brick = true
+			small_andesite_brick = true
+			cut_calcite = true
+			polished_cut_calcite = true
+			cut_calcite_brick = true
+			small_calcite_brick = true
+			cut_dripstone = true
+			polished_cut_dripstone = true
+			cut_dripstone_brick = true
+			small_dripstone_brick = true
+			cut_deepslate = true
+			polished_cut_deepslate = true
+			cut_deepslate_brick = true
+			small_deepslate_brick = true
+			cut_tuff = true
+			polished_cut_tuff = true
+			cut_tuff_brick = true
+			small_tuff_brick = true
+			cut_asurine = true
+			polished_cut_asurine = true
+			cut_asurine_brick = true
+			small_asurine_brick = true
+			cut_crimsite = true
+			polished_cut_crimsite = true
+			cut_crimsite_brick = true
+			small_crimsite_brick = true
+			cut_limestone = true
+			polished_cut_limestone = true
+			cut_limestone_brick = true
+			small_limestone_brick = true
+			cut_ochrum = true
+			polished_cut_ochrum = true
+			cut_ochrum_brick = true
+			small_ochrum_brick = true
+			cut_scoria = true
+			polished_cut_scoria = true
+			cut_scoria_brick = true
+			small_scoria_brick = true
+			cut_scorchia = true
+			polished_cut_scorchia = true
+			cut_scorchia_brick = true
+			small_scorchia_brick = true
+			cut_veridium = true
+			polished_cut_veridium = true
+			cut_veridium_brick = true
+			small_veridium_brick = true
+
+		[types.cut_block_type.forbidden_arcanus]
+			darkstone = true
+			polished_darkstone = true
+			polished_darkstone_brick = true
+			arcane_polished_darkstone = true
+			soulless_sandstone = true
+			cut_soulless_sandstone = true
+			polished_soulless_sandstone = true
+			fungyss = true
+			cherry = true
+			aurum = true
+			edelwood = true
+
+		[types.cut_block_type.undergarden]
+			depthrock = true
+			polished_depthrock = true
+			depthrock_brick = true
+			depthrock_tile = true
+			shiverstone = true
+			shiverstone_brick = true
+			tremblecrust = true
+			tremblecrust_brick = true
+			cloggrum_tile = true
+			smogstem = true
+			wigglewood = true
+			grongle = true
+
+		[types.cut_block_type.mysticalagriculture]
+			soulstone = true
+			soulstone_cobble = true
+			soulstone_bricks = true
+			soulstone_smooth = true
+
+		[types.cut_block_type.resourcefulbees]
+			waxed = true
+
+		[types.cut_block_type.ars_nouveau]
+			archwood = true
+			sourcestone = true
+			sourcestone_mosaic = true
+			sourcestone_basketweave = true
+			sourcestone_alternating = true
+			sourcestone_large_bricks = true
+			sourcestone_small_bricks = true
+			smooth_sourcestone_basketweave = true
+			smooth_sourcestone_mosaic = true
+			smooth_sourcestone_alternating = true
+			smooth_sourcestone_large_bricks = true
+			smooth_sourcestone = true
+			smooth_sourcestone_small_bricks = true
+			gilded_sourcestone_mosaic = true
+			gilded_sourcestone_basketweave = true
+			gilded_sourcestone_alternating = true
+			gilded_sourcestone_large_bricks = true
+			gilded_sourcestone_small_bricks = true
+			smooth_gilded_sourcestone_mosaic = true
+			smooth_gilded_sourcestone_basketweave = true
+			smooth_gilded_sourcestone_alternating = true
+			smooth_gilded_sourcestone_large_bricks = true
+			smooth_gilded_sourcestone_small_bricks = true
+
 	[types.leaves_type]
 
 		[types.leaves_type.blue_skies]
@@ -1124,6 +1259,22 @@
 		[types.leaves_type.upgrade_aquatic]
 			river = true
 
+		[types.leaves_type.forbidden_arcanus]
+			cherry = true
+			aurum = true
+			nuggety_aurum = true
+
+		[types.leaves_type.undergarden]
+			smogstem = true
+			wigglewood = true
+			grongle = true
+
+		[types.leaves_type.ars_nouveau]
+			blue_archwood = true
+			green_archwood = true
+			purple_archwood = true
+			red_archwood = true
+
 	[types.wood_type]
 
 		[types.wood_type.blue_skies]
@@ -1268,6 +1419,20 @@
 		[types.wood_type.monsters_and_girls]
 			soul_wanderer = true
 
+		[types.wood_type.forbidden_arcanus]
+			fungyss = true
+			cherry = true
+			aurum = true
+			edelwood = true
+
+		[types.wood_type.undergarden]
+			smogstem = true
+			wigglewood = true
+			grongle = true
+
+		[types.wood_type.ars_nouveau]
+			archwood = true
+
 [entries]
 
 	[entries.leaves_type]
@@ -1286,9 +1451,6 @@
 			hollow_log_vertical = true
 			banister = true
 			hollow_log_climbable = true
-
-		[entries.wood_type.friendsandfoes]
-			beehive = true
 
 		[entries.wood_type.another_furniture]
 			shelf = true
@@ -1329,4 +1491,24 @@
 
 		[entries.wood_type.backpacked]
 			backpack_shelf = true
+
+		[entries.wood_type.storagedrawers]
+			trim = true
+			full_drawers_2 = true
+			half_drawers_1 = true
+			full_drawers_4 = true
+			half_drawers_4 = true
+			half_drawers_2 = true
+			full_drawers_1 = true
+
+		[entries.wood_type.create]
+			window = true
+			window_pane = true
+
+		[entries.wood_type.friendsandfoes]
+			beehive = true
+
+		[entries.wood_type.productivebees]
+			advanced_beehive = true
+			expansion_box = true
 
