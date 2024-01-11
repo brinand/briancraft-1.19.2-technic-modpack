@@ -248,6 +248,9 @@
 				komodo_dragon = true
 				gorilla = true
 				hammerhead_shark = true
+				tarantula_hawk = true
+				mimic_octopus = true
+				sugar_glider = true
 
 			[light_sources.settings.entities.stalwart_dungeons]
 				projectile_spore_bottle = true
@@ -582,6 +585,9 @@
 				archevoker = true
 				necromancer = true
 				cryomancer = true
+				magic_missile_projectile = true
+				summoned_zombie = true
+				summoned_skeleton = true
 
 			[light_sources.settings.entities.monsters_and_girls]
 				gourdragora_medium = true
@@ -592,6 +598,7 @@
 				green_mandrake = true
 				gourdragora_large = true
 				ink_cap = true
+				brown_mandragora = true
 
 			[light_sources.settings.entities.cataclysm]
 				lionfish = true
@@ -655,4 +662,20 @@
 				coal_bee = true
 				beeper_bee = true
 				iron_bee = true
+
+			[light_sources.settings.entities.tumbleweed]
+				tumbleweed = true
+
+			[light_sources.settings.entities.productivebees]
+				ashy_mining_bee = true
+				green_carpenter_bee = true
+				yellow_black_carpenter_bee = true
+				blue_banded_bee = true
+				chocolate_mining_bee = true
+				mason_bee = true
+				nomad_bee = true
+
+			[light_sources.settings.entities.vinery]
+				wandering_winemaker = true
+				mule = true
 

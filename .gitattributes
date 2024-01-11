@@ -2,3 +2,6 @@ mods/morediscs-1.19.2-31-forge.jar filter=lfs diff=lfs merge=lfs -text
 mods/blue_skies-1.19.2-1.3.20.jar filter=lfs diff=lfs merge=lfs -text
 mods/blue_skies-1.19.2-1.3.20.jar filter=lfs diff=lfs merge=lfs -text
 mods/The_Undergarden-1.19.2-0.8.3.jar filter=lfs diff=lfs merge=lfs -text
+mods/morediscs-1.19.2-31-forge.jar filter=lfs diff=lfs merge=lfs -text
+mods/blue_skies-1.19.2-1.3.20.jar filter=lfs diff=lfs merge=lfs -text
+mods/The_Undergarden-1.19.2-0.8.3.jar filter=lfs diff=lfs merge=lfs -text
